@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DLowlow44
 - 👀 I’m interested in ...music and coding 
-- 🌱 I’m currently learning ...token
-- 💞️ I’m looking to collaborate on ...marketplace for nft
-- 📫 How to reach me ...create my own token
+- 🌱 I’m currently learning ...solidity and java along with any coding language and tools along the way.
+- 💞️ I’m looking to collaborate on ...marketplace for nft and own currency 
+- 📫 How to reach me ...email me at david.c.lopez89@gmail.com
 
 
 <!---
